@@ -1,3 +1,3 @@
 # DemoProject
-My first GitHub Repository
-Main Author - Sparsh Guha
+My first GitHub Repository.
+Main Author - Sparsh Guha.
